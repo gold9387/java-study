@@ -14,7 +14,7 @@
 | 스터디 회차 | 학습 일차 | 스터디 (예정) 일자 | 진행 여부 |
 | :---: | :---: | :---: | :---: |
 | 0회차 | 사전 회의 | 2023.10.04 (수) | ✅ |
-| 1회차 | [#1](https://github.com/gold9387/java-study/issues/1), [#2](https://github.com/gold9387/java-study/issues/2), [#3](https://github.com/gold9387/java-study/issues/3) | 2023.10.09 (월) |  
+| 1회차 | [#1](https://github.com/gold9387/java-study/issues/1) [#2](https://github.com/gold9387/java-study/issues/2) [#3](https://github.com/gold9387/java-study/issues/3) | 2023.10.09 (월) |  
 ## 학습 내용 포스팅 링크
 | 스터디 회차 | [김민규](https://github.com/gold9387) | [남지선](https://github.com/jisun-ny) | [주연진](https://github.com/yeonjinju) |
 | :---: | :---: | :---: | :---: |
